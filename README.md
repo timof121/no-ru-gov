@@ -6,4 +6,4 @@ A list of Russian Gov websites can be found on [NoRussian.tk](https://www.NoRuss
 make sure to check out other stuff like [NoRussian Github](https://github.com/ajax-lives/NoRussian)
 
 # KILLS:
-https://vesti.ru
+https://vesti.ru --keeps dropping, VERY slow loading
